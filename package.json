@@ -1,0 +1,36 @@
+{
+  "name": "lori-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "lori-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com//lori-pages#readme",
+  "bugs": {
+    "url": "https://github.com//lori-pages/issues"
+  },
+  "license": "MIT",
+  "author": "Lori25 <1300175624@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//lori-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
