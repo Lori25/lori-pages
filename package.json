@@ -1,7 +1,7 @@
 {
   "name": "lori-pages",
-  "version": "0.1.2",
-  "description": "Awesome node module",
+  "version": "0.1.4",
+  "description": "auto construct module",
   "keywords": [
     "lori-pages",
     "zce"
