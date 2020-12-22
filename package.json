@@ -1,14 +1,14 @@
 {
   "name": "lori-pages",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Awesome node module",
   "keywords": [
     "lori-pages",
     "zce"
   ],
-  "homepage": "https://github.com//lori-pages#readme",
+  "homepage": "https://github.com/Lori25/lori-pages#readme",
   "bugs": {
-    "url": "https://github.com//lori-pages/issues"
+    "url": "https://github.com/Lori25/lori-pages/issues"
   },
   "license": "MIT",
   "author": "Lori25 <1300175624@qq.com>",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com//lori-pages.git"
+    "url": "git+https://github.com/Lori25/lori-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"
@@ -36,6 +36,8 @@
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.2.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-htmlmin": "^5.0.1",
     "gulp-if": "^3.0.0",
     "gulp-imagemin": "^6.1.0",

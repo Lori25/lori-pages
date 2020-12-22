@@ -68,11 +68,11 @@ const result = loriPages('zce')
 [downloads-url]: https://npmjs.org/package/lori-pages
 [version-image]: https://img.shields.io/npm/v/lori-pages.svg
 [version-url]: https://npmjs.org/package/lori-pages
-[license-image]: https://img.shields.io/github/license//lori-pages.svg
-[license-url]: https://github.com//lori-pages/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david//lori-pages.svg
-[dependency-url]: https://david-dm.org//lori-pages
-[devdependency-image]: https://img.shields.io/david/dev//lori-pages.svg
-[devdependency-url]: https://david-dm.org//lori-pages?type=dev
+[license-image]: https://img.shields.io/github/license/Lori25/lori-pages.svg
+[license-url]: https://github.com/Lori25/lori-pages/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/Lori25/lori-pages.svg
+[dependency-url]: https://david-dm.org/Lori25/lori-pages
+[devdependency-image]: https://img.shields.io/david/dev/Lori25/lori-pages.svg
+[devdependency-url]: https://david-dm.org/Lori25/lori-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
